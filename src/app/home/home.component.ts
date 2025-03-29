@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-home',
   imports: [],
   templateUrl: './home.component.html',
-  styles: ``
+  styleUrl: './home.component.css'
 })
 export class HomeComponent {
 
